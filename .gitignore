@@ -6,6 +6,7 @@
 /dependencies/android.tests.dependencies
 /dist
 /local
+/target
 /gh-pages
 /ideaSDK
 /clionSDK
